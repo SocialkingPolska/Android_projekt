@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Projekt_maciek_adam</string>
+    <string name="kalkulator">Kalkulator</string>
+    <string name="logowanie">Logowanie</string>
+    <string name="o_projekcie">O Projekcie</string>
+    <string name="autorzy">Autorzy: Maciej Lech, Adam Wiechczyński 21E-B-SP</string>
+    <string name="koniec">Koniec</string>
+    <string name="konto">Konto</string>
+    <string name="haslo">Hasło</string>
+    <string name="hint_konto">Wpisz swoje konto</string>
+    <string name="hint_haslo">Wpisz swoje hasło</string>
+    <string name="title_logowanie">Podaj dane do logowania</string>
+    <string name="o_autorach">Autorzy projektu</string>
+    <string name="info_1">Technologie mobilne w E-Biznesie nr.1</string>
+    <string name="menu_glowne">Menu główne</string>
+</resources>
